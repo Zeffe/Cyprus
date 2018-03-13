@@ -1,0 +1,2 @@
+# Cyprus
+Scheduling django app.
